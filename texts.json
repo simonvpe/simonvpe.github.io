@@ -49,7 +49,7 @@
             "se": [
 		"Expert och entusiast kring modern C++-utveckling.",
 		"Djup kunskap om Linuxkärnan.",
-		"Erfarenhet av att bygga specialecerade Linuxdistributioner med Yocto och från grunden.",
+		"Erfarenhet av att bygga specialicerade Linuxdistributioner med Yocto och från grunden.",
 		"Kunskap om elektronik och förstår datorarkitekturer.",
 		"Anpassningsbar och entusiasitsk till nya applikationer och teknologier.",
 		"Läser, skriver och talar flytande engelska."
@@ -189,7 +189,7 @@
     "extra": {
         "title": {
             "en": "Additional Information",
-            "se": "Mera information"
+            "se": "Övrig information"
         },
         "text": {
             "en": "See my github",
